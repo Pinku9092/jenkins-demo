@@ -8,6 +8,6 @@ public class JenkinsTestController {
 
 	@GetMapping("/show")
 	public String showMessage() {
-		return "Coming from show message";
+		return "Coming from through git show messsage";
 	}
 }
